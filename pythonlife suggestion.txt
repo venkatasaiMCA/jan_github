@@ -1,0 +1,25 @@
+Websites for Practicing
+Beginner:
+https://www.w3schools.com/python/python_exercises.asp
+
+Intermediate:
+https://www.hackerrank.com/domains/python
+
+Advanced:
+https://leetcode.com/problems/word-subsets/discuss/1233091/Python-Practice
+
+
+300 Python Interview Questions
+https://github.com/kiransagar1/300-python-Interview-questions-and-solutions
+-------------------------------------------------------------------------------------------------------------------------------------------
+1000 python Mcqs 
+https://www.sanfoundry.com/1000-python-questions-answers/
+
+Hi Everyone
+
+Submit this Mini Project upto Monday Evening:
+Super Market Bill Generation 
+https://youtu.be/_zb4xxmo5b4
+
+Thank you
+--------------------------------------------------------------------------------------------------------------------------------
